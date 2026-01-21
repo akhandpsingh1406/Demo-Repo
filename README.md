@@ -1,2 +1,2 @@
-# Demo-Repo
-My first GitHub repository 
+This is my first GitHub repository
+Author: Akhand Pratap Singh
